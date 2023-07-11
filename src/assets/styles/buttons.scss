@@ -1,0 +1,6 @@
+@layer utilities {
+  .btn {
+    @apply py-[11px] px-[16px] rounded-[12px] text-gray  border border-gray appearance-none focus:outline-none;
+  }
+}
+
